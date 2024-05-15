@@ -8,6 +8,7 @@
         <container_class_name/>
         <name>ML Template Page - Container 1</name>
         <order>1</order>
+        <semantic_tag/>
         <sp_page display_value="ml_template_page">2f9376642f3acc10d4e83996f699b6db</sp_page>
         <subheader>false</subheader>
         <sys_class_name>sp_container</sys_class_name>
